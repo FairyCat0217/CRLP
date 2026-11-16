@@ -1,0 +1,4 @@
+﻿evaluation,mode,projects,project_scenario_instances,seed,candidates_per_run,mean_evaluation_seconds,mean_cost_context_seconds,mean_ils_seconds,pooled_evaluation_throughput_k_per_s,relative_evaluation_time
+Incremental,incremental,6,18,42,1000000,4.116308171819481,0.0,9.079115903832847,242.93613555128505,1.0
+Cached Full,cached_full,6,18,42,1000000,12.53767118220114,3.1861290776481233,17.539983526389634,79.75962883917633,3.045853385816657
+Rebuilt Full,rebuilt_full,6,18,42,1000000,2923.2971944350543,0.0,2929.7968346470348,0.34207948541929084,710.1745234839657
