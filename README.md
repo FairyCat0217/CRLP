@@ -1,6 +1,6 @@
 # CRLP: Capacitated Resource Leveling Problem
 
-This repository provides the datasets, task schedules, resource profiles, and computational results accompanying the study **An effective iterated local search algorithm for the capacitated resource leveling problem on cloud platforms**.
+This repository provides the datasets, task schedules, resource profiles, and computational results accompanying the study **An effective iterated local search algorithm for the large-scale capacitated resource leveling problem**.
 
 The capacitated resource leveling problem (CRLP) determines task start times under resource capacity, start-time window, and precedence constraints, given time-varying task demands and an existing fixed-load profile. Its objective combines segment peak costs, target-deviation costs with time-dependent unit costs, and task-placement costs through a normalized weighted sum.
 
